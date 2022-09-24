@@ -1,0 +1,8 @@
+.ContactAdder {
+    display: flex;
+    flex-direction: column;
+    border: .1rem solid black;
+    gap: .3rem;
+    padding: .3rem;
+    width: 300px;
+}

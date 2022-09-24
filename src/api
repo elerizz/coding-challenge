@@ -1,0 +1,5 @@
+const contacts = [
+    { name: "John", surname: "Malkowich", number:"0123456789"},
+    {name: "Rita", surname: "Ora", number:"0123456789"},
+    {name: "Pippo", surname: "Baudo", number:"0123456789"},
+]
